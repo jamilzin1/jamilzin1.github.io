@@ -4,6 +4,7 @@ html {
 
 body{}
 
+
 .container{
     display: flex;
 
@@ -11,6 +12,7 @@ body{}
 
 
 .blueBackground{
+    display: inline-block;
     min-width: 190px; 
     margin-left: 15%;
     width:15%;
