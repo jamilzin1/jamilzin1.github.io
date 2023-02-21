@@ -13,7 +13,7 @@ html {
  /* min-width: 190px; */
     margin-left: 15%;
     width:190px;
-    height:auto;
+    height:max-content;
     background-color: #0bb5f4;
     align-items: center;
 }
