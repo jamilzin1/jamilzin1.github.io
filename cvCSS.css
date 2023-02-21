@@ -10,7 +10,7 @@ html {
 
 
 .blueBackground{
-   min-width: 190px;
+ /* min-width: 190px; */
     margin-left: 15%;
     width:190px;
     height:700px;
