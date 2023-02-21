@@ -2,25 +2,26 @@ html {
     background-color: rgba(219, 219, 219, 0.795);
 }
 
-
+body{}
 
 .container{
     display: flex;
+
 }
 
 
 .blueBackground{
- /* min-width: 190px; */
+    min-width: 190px; 
     margin-left: 15%;
-    width:190px;
-    height:max-content;
+    width:15%;
+    height:auto;
     background-color: #0bb5f4;
     align-items: center;
 }
 
 .fundo{
-  width: auto;
-    height:700px;
+
+    height:auto;
     margin-right: 15%;
     background-color: white;
 }
