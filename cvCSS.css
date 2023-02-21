@@ -12,7 +12,7 @@ body{}
 
 
 .blueBackground{
-    display: inline-block;
+    display: block;
     min-width: 190px; 
     margin-left: 15%;
     width:15%;
