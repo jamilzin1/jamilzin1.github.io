@@ -62,9 +62,29 @@ body{}
     font-family: 'Space Grotesk', sans-serif;
     margin-left: 25px;
     margin-right: 25px;
-    font-size:14px; 
-    color:rgb(0, 0, 0);
+    font-size:16px; 
+    color:rgb(10, 10, 10);
 
+}
+
+.tituloDL{
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size:16px; 
+    color:rgb(0, 0, 0);
+}
+
+#projectIcon{
+    margin-top:-17px;
+    display:flex;
+}
+
+
+.tituloDL:hover{
+    text-decoration: underline ;
+    font-size:18px;
+    font-weight: bold;
 }
 
 .tituloResume{
@@ -156,4 +176,13 @@ color:rgb(117, 241, 117);
 
 .dd{
    margin-left:50px;
+   font-family: 'Space Grotesk', sans-serif;
+   margin-right: 25px;
+   font-size:16px; 
+   color:rgb(0, 0, 0);
+}
+
+.fa-code{
+    background-color: rgb(204, 204, 204);
+    margin-left:-15px;
 }
